@@ -1,4 +1,5 @@
 npm init 
+
 npm i
 
 #### para ejecutar la imagen de docker
